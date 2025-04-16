@@ -2,10 +2,6 @@
 
 **✨ 🥜 Toohak 🥜 ✨**
 
-## Contents
-
-[[_TOC_]]
-
 ## Change Log
 
 * 20/02: Removing unnecessary `user.js` file
